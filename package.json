@@ -1,0 +1,24 @@
+{
+  "name": "holidaysdungeon",
+  "version": "0.0.1",
+  "description": "new stupid dungeon",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanRoda/HolidaysDungeon.git"
+  },
+  "author": "EvanRoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvanRoda/HolidaysDungeon/issues"
+  },
+  "homepage": "https://github.com/EvanRoda/HolidaysDungeon#readme",
+  "devDependencies": {
+    "ts-loader": "^3.1.1",
+    "typescript": "^2.6.1",
+    "webpack": "^3.8.1"
+  }
+}

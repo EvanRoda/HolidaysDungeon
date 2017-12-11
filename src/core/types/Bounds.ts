@@ -1,0 +1,1 @@
+declare type Bounds = [number, number, number, number];
