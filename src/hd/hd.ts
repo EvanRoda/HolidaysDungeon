@@ -12,7 +12,6 @@ export class Hd {
 
         container.appendChild(this.real);
 
-
         this.drawTest();
     }
 
